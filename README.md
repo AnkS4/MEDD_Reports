@@ -11,3 +11,4 @@ A daily comprehensive report is prepared by MEDD, Maharashtra showing #COVIDー1
 - 17th June 2020
 - 21st September 2020
 - 8th October 2020
+- 13th October 2020
