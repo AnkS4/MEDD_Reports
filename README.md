@@ -4,7 +4,7 @@ A daily comprehensive report is prepared by MEDD, Maharashtra showing #COVIDー1
 
 ---
 
->Reports are generated **daily** from 27th March 2020 by MEDD with **exceptions** on following days:
+>Reports are generated **daily** from 27th March 2020 **till 19th October 2020** by MEDD with **exceptions** on following days:
 - 28th March 2020<br>
 - 29th March 2020<br>
 - 11th May 2020 *[Deleted by MEDD because of reduced number of Total Tests count]*<br>
@@ -13,7 +13,3 @@ A daily comprehensive report is prepared by MEDD, Maharashtra showing #COVIDー1
 - 8th October 2020
 - 13th October 2020
 - 16th October 2020
-- 20th October 2020
-- 21st October 2020
-- 22nd October 2020
-- 23rd October 2020
